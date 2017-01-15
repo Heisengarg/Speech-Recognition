@@ -13,12 +13,12 @@ The following acoustic properties of each voice are measured and included within
 
 (I have added some notes against them to help understand the features better)
 
-meanfreq: mean frequency (in kHz)
-sd: standard deviation of frequency
-median: median frequency (in kHz)
-Q25: first quantile (in kHz) 
-Q75: third quantile (in kHz)
-IQR: interquantile range (in kHz)
+meanfreq: mean frequency (in kHz)  
+sd: standard deviation of frequency  
+median: median frequency (in kHz)  
+Q25: first quantile (in kHz)  
+Q75: third quantile (in kHz)  
+IQR: interquantile range (in kHz)  
 skew: skewness (see note in specprop description)
 kurt: kurtosis (see note in specprop description)
 sp.ent: spectral entropy
